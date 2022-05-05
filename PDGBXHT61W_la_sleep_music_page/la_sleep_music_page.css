@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.music-bg-container {
+    background-color: #03174c;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.music-header-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png');
+    padding: 10px;
+    height: 30vh;
+    background-size: cover;
+}
+
+.music-heading {
+    color: #ffffff;
+    font-family: Bree Serif;
+    padding: 5px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.music-description {
+    color: #ffffff;
+    font-family: Bree Serif;
+    padding: 5px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.night-island-card {
+    padding: 30px;
+}
+
+.night-island-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png');
+    height: 150px;
+    width: 100%;
+    margin-bottom: 5px;
+    background-size: cover;
+    margin: 10px;
+}
+
+.night-island-card-heading {
+    padding: 25px;
+    text-align: center;
+    font-family: Bree Serif;
+    color: #ffffff;
+    font-size: 35px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #98a1bd;
+    border-radius: 30px;
+    border-width: 0px;
+    width: 120px;
+    height: 40px;
+    font-family: Bree Serif;
+    font-size: 15px;
+
+}
+
+.music-details-image {
+    background-size: cover;
+    width: 140vw;
+}
+
+/* 2nd secn */
+
+.music-details-bg {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/clouds-img.png');
+    height: 250px;
+    width: 400px;
+    background-size: cover;
+}
+
+.music-details-backg-c {
+    background-color: #03174c;
+    height: 110vh;
+}
+
+.music-det-heading {
+    color: #ffffff;
+    font-family: Bree Serif;
+    padding: 15px;
+    font-size: 25px;
+}
+
+.music-det-description {
+    color: #98a1bd;
+    font-family: Bree Serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.duration {
+    color: #98a1bd;
+    font-family: Bree Serif;
+    padding: 15px;
+}
+
+.heading-related {
+    color: #ffffff;
+    font-family: Bree Serif;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.related-image-container {
+    padding: 5px;
+}
+
+.related-image {
+    width: 150px;
+    height: 100px;
+    margin: 5px;
+}

@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.card-container {
+    background-color: #ffffff;
+    height: 200px;
+    padding: 15px;
+}
+
+.card-heading {
+    font-family: Bree Serif;
+    color: #f19116;
+    font-size: 25px;
+    padding: 15px;
+}
+
+.card-description {
+    font-family: Bree Serif;
+    color: #6c6b70;
+}
+
+.button {
+    background-color: #f19116;
+    border-width: 0px;
+    border-radius: 5px;
+    width: 105px;
+    color: #ffffff;
+}
+
+.background-color {
+    background-color: #222222;
+    height: 100vh;
+}
+
+.second-heading {
+    color: #f19116;
+    font-family: Bree Serif;
+    font-size: 25px;
+    padding: 5px;
+}
+
+.second-card-containers {
+    background-color: #ffffff;
+    height: 190px;
+    margin: 8px;
+
+
+}
+
+.second-card-image {
+    height: 190px;
+    width: 90px;
+}
+
+.second-card-text-container-heading {
+    font-family: Bree Serif;
+    color: #222222;
+    font-weight: 600;
+    font-size: 25px;
+    padding: 2px;
+}
+
+.second-card-text-container-description {
+    font-family: Bree Serif;
+    font-size: 15px;
+    padding: 5px;
+    font-weight: 400;
+    color: #6c6b70;
+}
+
+.section-three-container-image {
+    height: 40vh;
+    width: 100vw;
+}
+
+.section-three-card-container {
+    background-color: #0f0e46;
+    height: 60vh;
+}
+
+.section-three-card-container-heading {
+    color: #f19116;
+    padding: 15px;
+    font-family: Bree Serif;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.location {
+    height: 10vh;
+    width: 16vw;
+    padding: 15px;
+}
+
+.address {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 15px;
+    padding: 15px;
+
+}
+
+.horizontal-line {
+    background-color: #ffffff;
+    width: 90vw;
+}
+
+.section-three-description-heading {
+    color: #f19116;
+    font-family: Bree Serif;
+    font-size: 25px;
+    padding: 15px;
+}
+
+.section-three-description-text {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 15px;
+    padding: 15px;
+}
+
+.section-four-container-bg-container {
+    height: 40vh;
+    width: 100vw;
+}
+
+.section-four-container-card-container {
+    height: 60vh;
+    background-color: #0f0e46;
+}
+
+.section-five-container-bg-container {
+    height: 40vh;
+    width: 100vw;
+    background-size: cover;
+}

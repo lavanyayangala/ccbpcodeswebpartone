@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-color {
+    background-color: #225db0;
+
+}
+
+.heading {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 25px;
+    padding: 25px;
+    font-weight: 500;
+}
+
+.description {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 15px;
+    padding: 25px;
+    font-weight: 400;
+}
+
+.articles-home-image-container {
+    background-color: #ffffff;
+    height: 130px;
+    width: 150px;
+    border-radius: 15px;
+    margin: 25px;
+}
+
+.articles-home-image-container-img {
+    height: 90px;
+    width: 90px;
+    padding: 20px;
+}
+
+.articles-technology-icon-heading {
+    color: #1f2933;
+    font-family: Roboto;
+    font-size: 20px;
+    text-align: center;
+}
+
+.list-container-heading {
+    color: #ffffff;
+    padding: 25px;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.li-color {
+    color: #ffffff;
+    padding: 5px;
+}
+
+.carousel-inner {
+    padding: 15px;
+}
+
+.button {
+    color: #ffffff;
+    background: 0px;
+    border-color: #ffffff;
+}

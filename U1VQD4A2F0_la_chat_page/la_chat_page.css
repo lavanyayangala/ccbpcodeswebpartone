@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png');
+    height: 200vh;
+    width: 180vw;
+    background-size: cover;
+
+}
+
+.person-name {
+    padding: 15px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #323f4b;
+    font-size: 20px;
+}
+
+.messages-container {
+    padding: 50px;
+}
+
+.sent-messages-container {
+    color: white;
+    padding: 30px;
+    background-color: #47a3f3;
+    border-radius: 15px;
+    height: 15px;
+    width: 500px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    text-align: right;
+}
+
+.recieved-messages-container {
+    color: white;
+    padding: 30px;
+    background-color: #52606d;
+    border-radius: 10px;
+    height: 5px;
+    width: 500px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    text-align: left;
+}

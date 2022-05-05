@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #894bca;
+    height: 30vh;
+    background-size: cover;
+}
+
+.image {
+    height: 140px;
+    width: 150px;
+}
+
+.heading {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 25px;
+    padding: 25px;
+}
+
+.store-container {
+    background-color: #ffffff;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.store-heading {
+    color: #f780c3;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 5px;
+}
+
+.img {
+    margin: 20px;
+    height: 50px;
+    width: 50px;
+}
+
+.store-text-container {
+    padding: 5px;
+}
+
+.store-name {
+    /*  padding: 10px; */
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.store-card {
+    border-radius: 20px;
+}
+
+.store-description {
+    color: #7b8794;
+    font-family: Roboto;
+    font-size: 14px;
+}

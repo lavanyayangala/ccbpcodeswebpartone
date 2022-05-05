@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.podcasts-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png');
+    height: 30vh;
+    background-size: cover;
+    padding: 15px;
+}
+
+.podcasts-heading {
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.podcasts-card-container {
+    padding: 15px;
+}
+
+.podcasts-images {
+    height: 90px;
+    width: 100px;
+    margin: 10px;
+}
+
+.podcasts-title {
+    color: #151765;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 5px;
+
+}
+
+.podcasts-episodes {
+    color: #5a7184;
+    font-size: 13px;
+    font-family: Roboto;
+    font-weight: 500;
+    justify-content: center;
+}
+
+.podcast-header {
+    background-color: #151765;
+    padding: 15px;
+    height: 200px;
+}
+
+.podcast-image {
+    width: 160px;
+    height: 160px;
+    padding: 10px;
+}
+
+.category {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.podcast-title {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.podcast-caption {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: Roboto;
+}
+
+.podcast-text-container {
+    padding: 25px;
+}
+
+.podcast-heading {
+    color: #151765;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.podcast-description {
+    font-family: Roboto;
+    color: #151765;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.podcast-time {
+    color: #151765;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: Roboto;
+}
+
+.button-container {
+    margin: 10px;
+}
+
+.button {
+    width: 90px;
+    border-radius: 25px;
+    border-width: 0px;
+    background-color: #151765;
+    color: #ffffff;
+}

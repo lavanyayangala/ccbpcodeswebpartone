@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.book-store-home-page {
+    background-color: #1b1b1b;
+    padding: 25px;
+}
+
+.popular-book-heading {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 35px;
+}
+
+.popular-book-card-container {
+    background-color: #e6f6ff;
+    border-radius: 8px;
+}
+
+.popular-book-image {
+    width: 120px;
+    height: 190px;
+}
+
+.popular-book-card-details {
+    padding: 8px;
+}
+
+.popular-book-container-heading {
+    font-family: Bree Serif;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.popular-book-text {
+    color: #183b56;
+    font-family: Bree Serif;
+    font-size: 15px;
+
+}
+
+.popular-book-author {
+    color: #183b56;
+    font-family: Bree Serif;
+    font-size: 12px;
+}
+
+.button {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.recommended-books-heading {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 25px;
+    padding: 5px;
+}
+
+.recommended-books-image {
+    width: 100px;
+    height: 150px;
+}
+
+.recommended-books-details {
+    padding: 15px;
+}
+
+.recommended-books-heading {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.recommended-books-author {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 12px;
+}
+
+.button {
+    border-radius: 5px;
+}
+
+.wings-of-fire-details-page {
+    background-color: #1b1b1b;
+    height: 120vh;
+    width: 100vw;
+    text-align: center;
+    padding: 35px;
+}
+
+.book-image {
+    width: 200px;
+    height: 300px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.book-heading {
+    font-family: Bree Serif;
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.book-author {
+    color: #9aa5b1;
+    font-family: Bree Serif;
+    font-size: 12px;
+}
+
+.book-description {
+    color: #e4e7eb;
+    font-family: Bree Serif;
+    font-size: 12px;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.the-3-mistakes-of-my-life-details-page {
+    background-color: #1b1b1b;
+    height: 120vh;
+    width: 100vw;
+    text-align: center;
+    padding: 35px;
+}
+
+.harry-potter-book-details-page {
+    background-color: #1b1b1b;
+    height: 120vh;
+    width: 100vw;
+    text-align: center;
+    padding: 35px;
+}
